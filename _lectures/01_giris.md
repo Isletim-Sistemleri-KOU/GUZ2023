@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-28T12:43:10+4:30 
+date: 2023-09-28T12:43:10+4:30 
 title: Giriş
 
 # optional
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vSpkDE9qxAS4mZGbzC6hMK_B3dNi1HlZ3GUx5QJ_prllSBPJVkn9V8EZjYsQXbJqw/pub?start=false&loop=false&delayms=60000
+    - url: /_slides/01_Introduction.pdf
       name: slaytlar
     
 
