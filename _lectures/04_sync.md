@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2023/blob/main/_slides/04_Sync.pdf
+    - url: /_slides/04_Sync.pdf
       name: slaytlar
     - url: /codes/sync/sync.ipynb
       name: kodlar
