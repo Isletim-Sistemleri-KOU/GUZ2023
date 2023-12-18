@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2023/blob/main/_slides/01_Introduction.pdf
+    - url: /slides/01_Introduction.pdf
       name: slaytlar
     
 

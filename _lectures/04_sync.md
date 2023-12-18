@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /_slides/04_Sync.pdf
+    - url: /slides/04_Sync.pdf
       name: slaytlar
     - url: /codes/sync/sync.ipynb
       name: kodlar

@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2023/blob/main/_slides/03_Threads.pdf
+    - url: /slides/03_Threads.pdf
       name: slaytlar
     
   #  - url: #

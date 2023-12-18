@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2023/blob/main/_slides/02_Processes.pdf
+    - url: /slides/02_Processes.pdf
       name: slaytlar
     
   #  - url: #
